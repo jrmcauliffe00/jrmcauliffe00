@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Data Engineering, Data Pipeline, Workflows, and DevOps.
+- 🌱 I’m currently learning Apache Airflow, Hashicorp Vault, Node.js and Angular.
+
 <!--
 **jrmcauliffe00/jrmcauliffe00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
