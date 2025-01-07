@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Data Engineering, Data Pipeline, Workflows, and DevOps @ [Axle Informatics](https://axleinfo.com)
+- 🔭 I’m currently working on Data Engineering, Software Engineering (Full-Stack), Workflows, and DevOps @ [Axle Informatics](https://axleinfo.com)
 - 🌱 I’m currently learning Apache Airflow, Hashicorp Vault, Node.js and Angular.
 
 <!--
