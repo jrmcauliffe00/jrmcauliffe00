@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Data Engineering, Software Engineering (Full-Stack), Workflows, and DevOps @ [Axle Informatics](https://axleinfo.com)
-- 🌱 I’m currently learning Apache Airflow, Hashicorp Vault, Node.js and Angular.
+- 🌱 I’m currently working with Apache Airflow, Hashicorp Vault, Node.js and Angular.
 
 <!--
 **jrmcauliffe00/jrmcauliffe00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
