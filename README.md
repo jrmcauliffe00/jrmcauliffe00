@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Data Engineering, Software Engineering (Full-Stack), Workflows, and DevOps @ [Axle Informatics](https://axleinfo.com)
 - 🌱 I’m currently working with Apache Airflow, Hashicorp Vault, Node.js and Angular.
-- ⚡ I'm addicted to problem solving; try out [my weekly puzzle](http://leetcode-adlib.com/weekly-puzzle)—for my fellow software nuts
+- ⚡ I'm addicted to problem solving so I made this [weekly puzzle](http://leetcode-adlib.com/weekly-puzzle)—for my fellow software nuts [React and Express web app]
 
 <!--
 **jrmcauliffe00/jrmcauliffe00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
