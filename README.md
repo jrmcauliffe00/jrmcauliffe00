@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a Software Engineer (Full-Stack) automating workflows, producing infrastructure and building powerful applications @ [Axle Informatics](https://axleinfo.com)
-- 🌱 I’m currently working with JupyterHub, Mongodb, Apache Airflow, Hashicorp Vault, Node.js and Angular.
+- 🔭 I’m currently a Forward Deployed Engineer building powerful solutions @ [Inferred Edge](https://inferrededge.com/)
 - ⚡ I'm addicted to problem solving and open to collaborating!
 
 <!--
