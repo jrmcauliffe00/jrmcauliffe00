@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently a Forward Deployed Engineer building powerful solutions @ [Inferred Edge](https://inferrededge.com/)
 - ⚡ I'm addicted to problem solving and open to collaborating!
+- Check out [my website and blog](john-mcauliffe.com) for the latest
 
 <!--
 **jrmcauliffe00/jrmcauliffe00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
