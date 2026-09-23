@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a Forward Deployed Engineer building powerful solutions @ [Inferred Edge](https://inferrededge.com/)
 - ⚡ I'm addicted to problem solving and open to collaborating!
 - Check out [my website and blog](https://www.john-mcauliffe.com) for the latest
 
